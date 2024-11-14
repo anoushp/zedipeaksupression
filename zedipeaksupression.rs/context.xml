@@ -1,0 +1,6 @@
+<context id="zedipeaksupression" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+  	    <projection id="space" type="continuous space" />
+        <projection id="grid" type="grid" />  
+        <projection id="network1" type="network" />   
+       
+</context>
